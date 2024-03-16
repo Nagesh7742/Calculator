@@ -27,6 +27,7 @@
             <artifactId>junit-jupiter-params</artifactId>
             <version>${junit-jupiter-params.version}</version>
             <scope>test</scope>
+         <finalname>devops-intigration<finalname>   
         </dependency>
     </dependencies>
 </project>

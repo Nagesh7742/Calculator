@@ -1,5 +1,6 @@
 # Use the official OpenJDK image
 FROM openjdk:11
+EXPOSE 8080
 
 # Set the working directory
 WORKDIR /app

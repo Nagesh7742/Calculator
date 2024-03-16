@@ -30,6 +30,6 @@
         </dependency>
     </dependencies>
          <build>
-                 <finalName>devops-integration</finalName>
+                 <finalName>devops-integrations</finalName>
              </build>
 </project>
